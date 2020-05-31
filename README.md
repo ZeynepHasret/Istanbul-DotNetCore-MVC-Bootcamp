@@ -1,9 +1,10 @@
 # 51. İstanbul .NET CORE  ile MVC Yolculuğuna Giriş :)
 ## 1. BÖLÜM <br/>
-[Github](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) -->**Test-sınıf-repo** <br/>
-*gitflow* <br/>
-*gitlub learning lab* --> [GitLab](https://about.gitlab.com/) <br/>
-*gitsecops* <br/>
+[Git](https://git-scm.com/) ile başlıyoruz..-->Ürünün adı. <br/>
+[Github](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) -->**Test-sınıf-repo** Sınıfımıza ait ClasRoom <br/>
+[Gitflow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) --> Github'ın önerdiği dallanma modelidir.  <br/>
+*Gitlub learning lab* --> [GitLab](https://about.gitlab.com/) <br/>
+*Gitsecops*-->Devops,gitops,devsecops,Continuous integration, [Continuous Delivery](https://martinfowler.com/bliki/ContinuousDelivery.html?utm_source=Codeship&utm_medium=CI-Guide)-->Sürekli dağıtım ( CD ), ekiplerin kısa döngülerde yazılım ürettikleri, yazılımın her zaman ve yazılımın serbest bırakılmasında elle manuel olarak serbest bırakılabilmesini sağlayan bir yazılım mühendisliği yaklaşımıdır. <br/>
 ## 2. BÖLÜM <br/>
 Azure deployment <br/>
 Azure web app <br/>
