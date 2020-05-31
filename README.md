@@ -1,10 +1,9 @@
 # 51. İstanbul .NET CORE  ile MVC Yolculuğuna Giriş :)
 ## 1. BÖLÜM <br/>
-[Github](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) <br/>
+[Github](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) -->**Test-sınıf-repo** <br/>
 *gitflow* <br/>
-*gitlub learning lab* <br/>
+*gitlub learning lab* --> [GitLab](https://about.gitlab.com/) <br/>
 *gitsecops* <br/>
-
 ## 2. BÖLÜM <br/>
 Azure deployment <br/>
 Azure web app <br/>
