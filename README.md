@@ -11,7 +11,7 @@ Azure web app <br/>
 ## 3. BÖLÜM <br/>
 Microservice Architecture <br/>
 Örnek olarak; [Netflix'te Bulut Tabanlı Mikro Hizmet Mimarisinin Tasarım Analizi](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f) hakkında bir makale verebiliriz  <br/>
-*[12 faktor app dev method manifesto heroku](https://12factor.net/tr/backing-services)* <br/>
+*[12 faktor app dev method manifesto heroku](https://12factor.net/tr/backing-services)* (On İki Faktörlü Uygulama metodolojisi)<br/>
 ## 4. BÖLÜM <br/>
 [owaps code smeel ve top10 listesi -> defensive coding  <br/>
 
