@@ -2,15 +2,15 @@
 ## 1. BÖLÜM <br/>
 [Github](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) <br/>
 *gitflow* <br/>
-**gitlub learning lab**  <br/>
+*gitlub learning lab* <br/>
 *gitsecops* <br/>
 
 ## 2. BÖLÜM <br/>
 Azure deployment <br/>
-Azure we app <br/>
+Azure web app <br/>
 ## 3. BÖLÜM <br/>
 Microservice Architecture <br/>
-Örneğin; [Netflix'te Bulut Tabanlı Mikro Hizmet Mimarisinin Tasarım Analizi](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f) hakkında bir makale verebiliriz  <br/>
+Örnek olarak; [Netflix'te Bulut Tabanlı Mikro Hizmet Mimarisinin Tasarım Analizi](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f) hakkında bir makale verebiliriz  <br/>
 *[12 faktor app dev method manifesto heroku](https://12factor.net/tr/backing-services)* <br/>
 ## 4. BÖLÜM <br/>
 [owaps code smeel ve top10 listesi -> defensive coding  <br/>
