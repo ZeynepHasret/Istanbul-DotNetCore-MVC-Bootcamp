@@ -22,8 +22,11 @@ Azure web app <br/>
 <br/>
 **[12 Factor App için Medyum-makale metnini ziyaret edebilirsiniz :)](https://medium.com/architectural-patterns/12-factor-app-uygun-geli%C5%9Ftirme-nedir-61645e68f114)**
 ## 4. BÖLÜM <br/>
-[owaps code smeel ve top10 listesi -> defensive coding  <br/>
-
+[Owaps](https://owasp.org/)-->Açık Web Uygulaması Güvenlik Projesi (OWASP), yazılımın güvenliğini artırmak için çalışan kar amacı gütmeyen bir vakıftır. <br/>
+*Owaps Top10 Listesi* <br/> (![top10](https://user-images.githubusercontent.com/51059267/83364649-6a841e80-a3ab-11ea-8f63-badb7e441d1e.png) <br/>
+-> *[Defensive Coding]* (Savunma Amaçlı Kodlama)--> Savunma programlama, bir yazılım parçasının öngörülmeyen koşullar altında sürekli işlevini sağlamayı amaçlayan bir savunma tasarımı biçimidir. <br/>![jjjjjj](https://user-images.githubusercontent.com/51059267/83364931-825ca200-a3ad-11ea-9b37-eca80d8bbc1f.png))  <br/>
+[Code smeel](https://sourcemaking.com/refactoring/smells)--> Bilgisayar programlamasında, bir **kod kokusu** bir programın kaynak kodunda daha derin bir sorunu gösteren herhangi bir özelliktir. <br/>
+[Code smeel](https://martinfowler.com/bliki/CodeSmell.html)-->Martin Fowler'ın Medyum makale metnini ziyaret edebilirsiniz :) <br/>
 ## 5. BÖLÜM <br/>
 *.net Core 3.1* <br/>
 [.NET Core 3.1’deki yenilikler](https://docs.microsoft.com/tr-tr/dotnet/core/whats-new/dotnet-core-3-1)
