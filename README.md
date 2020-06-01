@@ -1,4 +1,4 @@
-# 51. İstanbul .NET CORE  ile MVC Yolculuğuna Giriş :)
+# - 51. İstanbul .NET CORE  ile MVC Eğitimine Giriş -
 ## 1. BÖLÜM <br/>
 * [Git](https://git-scm.com/) ile başlıyoruz..-->Ürünün adı. <br/>
 * [Github](https://guides.github.com/activities/hello-world/) = GitHub, sürüm kontrol sistemi olarak Git kullanan yazılım geliştirme projeleri için web tabanlı bir depolama servisidir. --> [Test-sınıf-repo](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) Belirtilen link Sınıfımızın ClasRoom'una aittir. <br/>
@@ -12,8 +12,15 @@
 --> [Continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) --> Sürekli Entegrasyon(CI),Yazılım mühendisliğinde sürekli entegrasyon, tüm geliştiricilerin çalışma kopyalarını günde birkaç kez paylaşılan bir ana hatla birleştirme uygulamasıdır.  <br/>
  --> [Continuous Delivery](https://martinfowler.com/bliki/ContinuousDelivery.html?utm_source=Codeship&utm_medium=CI-Guide)-->Sürekli dağıtım ( CD ), ekiplerin kısa döngülerde yazılım ürettikleri, yazılımın her zaman ve yazılımın serbest bırakılmasında elle manuel olarak serbest bırakılabilmesini sağlayan bir yazılım mühendisliği yaklaşımıdır. <br/>
 ## 2. BÖLÜM <br/>
-Azure deployment <br/>
-Azure web app <br/>
+*** *[Bulut Bilişim](https://aws.amazon.com/tr/what-is-cloud-computing/)* --> Bulut bilişim, bilgisayarlar ve diğer cihazlar için, istendiği zaman kullanılabilen ve kullanıcılar arasında paylaşılan bilgisayar kaynakları sağlayan, internet tabanlı bilişim hizmetlerinin genel adıdır. <br/>
+
+[Azure deployment](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/deploy/azure-rm-web-app-deployment?view=azure-devops) -->  Azure DevOps Hizmetleri (*bulutta*) ve Team Foundation Services (şirket içi), Microsoft'un Azure için DevOps çözümleridir.  <br/>
+* [Amazon Web Services](https://aws.amazon.com/tr/what-is-aws/) =Amazon Web Services (AWS), dünyanın en kapsamlı ve en yaygın kullanılan bulut platformudur. <br/>
+* [Microsoft Azure](https://azure.microsoft.com/tr-tr/)--> Hem açık çevre ortamlarından hem de İnternet'ten tüketilebilen çok çeşitli İnternet hizmetini sağlamakta" olan bir bulut platformu hizmetidir. <br/>
+* [Google Cloud](https://cloud.google.com/)--> Google Cloud, Google firmasının Google arama motoru ve Youtube gibi sitelerin de kullandığı sunucu altyapı hizmetlerini son kullanıcıya sunduğu bir bulut bilgi platformudur. <br/>
+* [Docker](https://www.docker.com/) --> Docker, "konteynerleştirme" olarak da bilinen işletim sistemi seviyesinde sanallaştırma sağlayan bir bilgisayar programıdır. <br/>
+[Azure Web App](https://azure.microsoft.com/tr-tr/services/app-service/web/) = Microsoft Azure Web Siteleri, Microsoft tarafından oluşturulan ve işletilen web sitelerini barındırmak için bulut bilişim tabanlı bir platformdur. <br/>
+       ** [Devler Azure'da](https://www.microsoft.com/turkey/devlerazureda/)
 ## 3. BÖLÜM <br/>
 **[Microservice Architecture](https://microservices.io/index.html)** = Mikro hizmet mimarisi, büyük, karmaşık uygulamaların hızlı, sık ve güvenilir bir şekilde sunulmasını sağlar. Ayrıca bir kuruluşun teknoloji yığınını geliştirmesini sağlar.<br/>
 [A pattern language for microservices](https://microservices.io/patterns/) (Mikro hizmetler için örüntü dili) =Mikro hizmet mimarileri için örüntü dilinin başlangıcı linkte mevcut :)  <br/>
@@ -25,10 +32,16 @@ Azure web app <br/>
 ## 4. BÖLÜM <br/>
 [Owaps](https://owasp.org/)-->Açık Web Uygulaması Güvenlik Projesi (OWASP), yazılımın güvenliğini artırmak için çalışan kar amacı gütmeyen bir vakıftır. <br/>
 *[OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
-İlk 10 web uygulaması güvenlik riski )* <br/> (![top10](https://user-images.githubusercontent.com/51059267/83364649-6a841e80-a3ab-11ea-8f63-badb7e441d1e.png) <br/>
--> *[Defensive Coding]* (Savunma Amaçlı Kodlama)--> Savunma programlama, bir yazılım parçasının öngörülmeyen koşullar altında sürekli işlevini sağlamayı amaçlayan bir savunma tasarımı biçimidir. <br/>![jjjjjj](https://user-images.githubusercontent.com/51059267/83364931-825ca200-a3ad-11ea-9b37-eca80d8bbc1f.png))  <br/>
+(İlk 10 web uygulaması güvenlik riski)* <br/> (![top10](https://user-images.githubusercontent.com/51059267/83364649-6a841e80-a3ab-11ea-8f63-badb7e441d1e.png) <br/>
+-> *[Defensive Coding](https://en.wikipedia.org/wiki/Defensive_programming)* (Savunma Amaçlı Kodlama)--> Savunma programlama, bir yazılım parçasının öngörülmeyen koşullar altında sürekli işlevini sağlamayı amaçlayan bir savunma tasarımı biçimidir. <br/>![jjjjjj](https://user-images.githubusercontent.com/51059267/83364931-825ca200-a3ad-11ea-9b37-eca80d8bbc1f.png))  <br/>
 [Code smeel](https://sourcemaking.com/refactoring/smells)--> Bilgisayar programlamasında, bir **kod kokusu** bir programın kaynak kodunda daha derin bir sorunu gösteren herhangi bir özelliktir. <br/>
 [Code smeel](https://martinfowler.com/bliki/CodeSmell.html)-->Martin Fowler'ın Medyum makale metnini ziyaret edebilirsiniz :) <br/>
 ## 5. BÖLÜM <br/>
 *.net Core 3.1* <br/>
 [.NET Core 3.1’deki yenilikler](https://docs.microsoft.com/tr-tr/dotnet/core/whats-new/dotnet-core-3-1)
+### YAZILIM ALANINDA GELİŞİME YARDIMCI WEB SİTELERİ :
+[Code Project](https://www.codeproject.com/)-->Code Project, web geliştirme, yazılım geliştirme, C ++, Java ve diğer konular gibi farklı konularda ve programlama dillerinde makaleler içeren bilgisayar programcıları için bir topluluktur. <br/> 
+[Stack Overflow](https://stackoverflow.com/)-->Stack Overflow, bilgisayar programcılığı ile ilgili kullanıcı odaklı soru cevap sitesidir. <br/>
+[Stack Exchange](https://stackexchange.com/)-->Stack Exchange, farklı alanlardaki konularda her soru ve cevapların ve kullanıcıların itibar ödüllendirme sürecine tabi tutulduğu belirli bir konuyu kapsayan bir soru-cevap web sitesidir. <br/> 
+[Udacity](https://www.udacity.com/)-->Udacity, açık çevrimiçi kurslar sunan, kâr amacı gütmeyen bir eğitim kuruluşudur. <br/> 
+[Coursera](https://www.coursera.org/)--> Coursera, çeşitli alanlarda ve konularda kitlesel çevrimiçi açık ders ya da herkes tarafından yararlanılabilecek, ücretsiz çevrimiçi eğitim veren bir sosyal girişimcilik kuruluşudur. <br/> 
