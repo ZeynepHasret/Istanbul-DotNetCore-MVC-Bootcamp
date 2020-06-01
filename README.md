@@ -15,9 +15,10 @@
 Azure deployment <br/>
 Azure web app <br/>
 ## 3. BÖLÜM <br/>
-**Microservice Architecture** <br/>
+**[Microservice Architecture](https://microservices.io/index.html)** = Mikro hizmet mimarisi, büyük, karmaşık uygulamaların hızlı, sık ve güvenilir bir şekilde sunulmasını sağlar. Ayrıca bir kuruluşun teknoloji yığınını geliştirmesini sağlar.<br/>
+[A pattern language for microservices](https://microservices.io/patterns/) (Mikro hizmetler için örüntü dili) =Mikro hizmet mimarileri için örüntü dilinin başlangıcı linkte mevcut :)  <br/>
 Örnek olarak; [Netflix'te Bulut Tabanlı Mikro Hizmet Mimarisinin Tasarım Analizi](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f) hakkında bir makale verebiliriz  <br/>
-**[12 faktor app dev method manifesto heroku](https://12factor.net/tr/backing-services)** (On İki Faktörlü Uygulama metodolojisi) =  On iki faktörlü uygulama, hizmet olarak yazılım uygulamaları oluşturmak için bir metodolojidir.
+**[12 faktor app dev method manifesto heroku](https://12factor.net/tr/backing-services)** (On İki Faktörlü Uygulama metodolojisi) =  12faktör, Heroku’nun kurucu ortaklarından Adam Wiggins’ın kendi deneyimlerinden yola çıkarak, DevOps, teknoloji, programlama dili, mimari, vb. konuları kapsayacak şekilde oluşturulmuş olduğu on iki maddelik bir manifestodur. Bu manifesto, bulut odaklı uygulama geliştirilirken uygulanması gereken best practices’lere değinen bir kılavuz niteliği taşımaktadır.
 ![12factorapp](https://user-images.githubusercontent.com/51059267/83363405-d5c8f300-a3a1-11ea-9fcb-f8f9576dd5ae.png)
 <br/>
 **[12 Factor App için Medyum-makale metnini ziyaret edebilirsiniz :)](https://medium.com/architectural-patterns/12-factor-app-uygun-geli%C5%9Ftirme-nedir-61645e68f114)**
