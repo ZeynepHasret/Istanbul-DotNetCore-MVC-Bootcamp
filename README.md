@@ -1,4 +1,5 @@
 # - 51. İstanbul .NET CORE  ile MVC Eğitimine Giriş -
+ ### Eğitimi Veren: Hakkı Sağdıç
 ## 1. BÖLÜM <br/>
 * [Git](https://git-scm.com/) ile başlıyoruz..-->Ürünün adı. <br/>
 * [Github](https://guides.github.com/activities/hello-world/) = GitHub, sürüm kontrol sistemi olarak Git kullanan yazılım geliştirme projeleri için web tabanlı bir depolama servisidir. --> [Test-sınıf-repo](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) Belirtilen link Sınıfımızın ClasRoom'una aittir. <br/>
@@ -45,3 +46,6 @@
 [Stack Exchange](https://stackexchange.com/)-->Stack Exchange, farklı alanlardaki konularda her soru ve cevapların ve kullanıcıların itibar ödüllendirme sürecine tabi tutulduğu belirli bir konuyu kapsayan bir soru-cevap web sitesidir. <br/> 
 [Udacity](https://www.udacity.com/)-->Udacity, açık çevrimiçi kurslar sunan, kâr amacı gütmeyen bir eğitim kuruluşudur. <br/> 
 [Coursera](https://www.coursera.org/)--> Coursera, çeşitli alanlarda ve konularda kitlesel çevrimiçi açık ders ya da herkes tarafından yararlanılabilecek, ücretsiz çevrimiçi eğitim veren bir sosyal girişimcilik kuruluşudur. <br/> 
+[Thought Work-Technology Radar](https://www.thoughtworks.com/radar)-->ThoughtWorks, 15 ülkede 42 ofisi bulunan, özel sektöre ait, küresel bir teknoloji şirketidir. Yazılım tasarımı ve dağıtımı ile araç ve danışmanlık hizmetleri vermektedir.
+   **[Martin Fowler](https://martinfowler.com/) , Tought Work katılan bilim adamı.
+                                                                                          
