@@ -52,6 +52,6 @@
    [Electron](https://www.electronjs.org/) , Javascript, HTML ve CSS ile çapraz platform Masaüstü uygulamaları geliştirir. <br/>
    [dotnetfoundation](https://dotnetfoundation.org/) , .NET Vakfı, .NET platformu çevresinde yenilikçi, ticari olarak dost, açık kaynaklı bir ekosistemi desteklemek için kurulmuş bağımsız, kar amacı gütmeyen bir kuruluştur. <br/>
    [Mozilla Foundation](https://foundation.mozilla.org/en/) , 2003 yılında kurulan ve Mozilla Manifestosu tarafından yönlendirilen Mozilla Vakfı, İnternet'in herkese açık ve erişilebilir olması gereken küresel bir kamu kaynağı olduğuna inanıyor. <br/>
-   [ReSharper](https://www.jetbrains.com/resharper/) , ReSharper yahut R# JetBrains tarafından Microsoft'un geliştirme ortamı Visual Studio için yayımlanan bir uzantısıdır.
+   [ReSharper](https://www.jetbrains.com/resharper/) , ReSharper yahut R# JetBrains tarafından Microsoft'un geliştirme ortamı Visual Studio için yayımlanan bir uzantısıdır. <br/>
    [Solid](https://medium.com/android-t%C3%BCrkiye/solid-prensipleri-5d2ef01f4eeb), Solid Prensipleri Nedir?
                                                                                           
