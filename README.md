@@ -48,4 +48,10 @@
 [Coursera](https://www.coursera.org/)--> Coursera, çeşitli alanlarda ve konularda kitlesel çevrimiçi açık ders ya da herkes tarafından yararlanılabilecek, ücretsiz çevrimiçi eğitim veren bir sosyal girişimcilik kuruluşudur. <br/> 
 [Thought Work-Technology Radar](https://www.thoughtworks.com/radar)-->ThoughtWorks, 15 ülkede 42 ofisi bulunan, özel sektöre ait, küresel bir teknoloji şirketidir. Yazılım tasarımı ve dağıtımı ile araç ve danışmanlık hizmetleri vermektedir.
    **[Martin Fowler](https://martinfowler.com/) , Tought Work katılan bilim adamı.
+   [Developer Roadmaps](https://roadmap.sh/) , Farklı geliştirici araçları veya teknolojileri öğrenmek isteyenler için adım adım yol haritası. <br/>
+   [Electron](https://www.electronjs.org/) , Javascript, HTML ve CSS ile çapraz platform Masaüstü uygulamaları geliştirir. <br/>
+   [dotnetfoundation](https://dotnetfoundation.org/) , .NET Vakfı, .NET platformu çevresinde yenilikçi, ticari olarak dost, açık kaynaklı bir ekosistemi desteklemek için kurulmuş bağımsız, kar amacı gütmeyen bir kuruluştur. <br/>
+   [Mozilla Foundation](https://foundation.mozilla.org/en/) , 2003 yılında kurulan ve Mozilla Manifestosu tarafından yönlendirilen Mozilla Vakfı, İnternet'in herkese açık ve erişilebilir olması gereken küresel bir kamu kaynağı olduğuna inanıyor. <br/>
+   [ReSharper](https://www.jetbrains.com/resharper/) , ReSharper yahut R# JetBrains tarafından Microsoft'un geliştirme ortamı Visual Studio için yayımlanan bir uzantısıdır.
+   [Solid](https://medium.com/android-t%C3%BCrkiye/solid-prensipleri-5d2ef01f4eeb), Solid Prensipleri Nedir?
                                                                                           
