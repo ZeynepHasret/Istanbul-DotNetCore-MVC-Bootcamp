@@ -1,5 +1,5 @@
 # - 51. İstanbul .NET CORE  ile MVC Eğitimine Giriş -
- ### Eğitimi Veren: Hakkı Sağdıç
+ ### Eğitimi Veren : Hakkı Sağdıç
 ## 1. BÖLÜM <br/>
 * [Git](https://git-scm.com/) ile başlıyoruz..-->Ürünün adı. <br/>
 * [Github](https://guides.github.com/activities/hello-world/) = GitHub, sürüm kontrol sistemi olarak Git kullanan yazılım geliştirme projeleri için web tabanlı bir depolama servisidir. --> [Test-sınıf-repo](https://github.com/Kodluyoruz51BootcampMVCCore/test-classroom-repo) Belirtilen link Sınıfımızın ClasRoom'una aittir. <br/>
